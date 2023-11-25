@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mykola Baliasevych</h1>
 <h3 align="center">A frontend developer from Ukraine 🇺🇦</h3>
 
-<img align=“right” alt=“homer” width=“400” src=“https://media4.giphy.com/media/fdHg7T902uzLy/giphy.gif” />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolaus-b&label=Profile%20views&color=0e75b6&style=flat" alt="nikolaus-b" /> </p>
 
 - 🌱 I’m currently learning **React.js**
