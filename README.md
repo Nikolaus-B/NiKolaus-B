@@ -13,7 +13,9 @@
 <a href="https://codesandbox.com/nikolaus-b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nikolaus-b" height="30" width="40" /></a>
 </p>
 
-![Codewars](https://github.r2v.ch/codewars?user=Nikoalus&stroke=COLOR)
+ <div align="center">  
+  <a href="https://www.codewars.com/users/Nikoalus"><img src="https://www.codewars.com/users/EuJinnLucaShow/badges/large">
+  </div>
 
 
 <h3 align="left">Languages and Tools:</h3>
