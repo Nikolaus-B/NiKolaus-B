@@ -14,7 +14,7 @@
 </p>
 
  <div align="center">  
-  <a href="https://www.codewars.com/users/Nikoalus"><img src="https://www.codewars.com/users/EuJinnLucaShow/badges/large">
+  <a href="https://www.codewars.com/users/Nikoalus"><img src="https://www.codewars.com/users/Nikoalus/badges/large">
   </div>
 
 
