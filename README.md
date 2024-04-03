@@ -26,7 +26,9 @@
   </a>
 </div>
 
-<div align="center" marginTop="10px">  
+<br/>
+
+<div align="center">  
   <a href="https://www.codewars.com/users/Nikolaus-B"><img src="https://www.codewars.com/users/Nikolaus-B/badges/large">
   </div>
 
