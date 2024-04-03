@@ -1,9 +1,9 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nikolaus-b&label=Profile%20views&color=0e75b6&style=flat" alt="nikolaus-b" /> </p>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mykola+Baliasevych!;" />
 </h1>
-<h3 align="center">A frontend developer from Ukraine 🇺🇦</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nikolaus-b&label=Profile%20views&color=0e75b6&style=flat" alt="nikolaus-b" /> </p>
+<h3 align="center">A software developer from Ukraine 🇺🇦</h3>
 
 - 🌱 I’m currently learning **React.js**
 
@@ -11,11 +11,20 @@
 
 - 📫 How to reach me **baliasevych123@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mykola baliasevych" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mykola baliasevych" height="30" width="40" /></a>
-<a href="https://codesandbox.com/nikolaus-b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nikolaus-b" height="30" width="40" /></a>
-</p>
+<h3 align="center">Connect with me:</h3>
+<div align="center"> 
+  <a href="mailto:baliasevych123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+   
+  <a href="https://www.linkedin.com/in/mykola-baliasevych/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+  <a href="https://nikolaus-b.github.io/portfolio/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+</div>
 
 <div align="center">  
   <a href="https://www.codewars.com/users/Nikolaus-B"><img src="https://www.codewars.com/users/Nikolaus-B/badges/large">
