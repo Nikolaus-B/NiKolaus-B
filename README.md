@@ -3,12 +3,6 @@
 </h1>
 <h3 align="center">A software developer from Ukraine 🇺🇦</h3>
 
-- 🌱 I’m currently learning **React.js**
-
-- 💬 Ask me about **how to find junior position in 2024**
-
-- 📫 How to reach me **baliasevych123@gmail.com**
-
 <h3 align="center">Connect with me:</h3>
 <div align="center"> 
   <a href="mailto:baliasevych123@gmail.com">
